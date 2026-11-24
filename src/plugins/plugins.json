@@ -12,6 +12,9 @@
         "src/plugins/analytics/garden-plugin.json",
         "src/plugins/analytics/templates/snippet.njk"
       ]
+    },
+    "dg-search": {
+      "enabled": false
     }
   }
 }
