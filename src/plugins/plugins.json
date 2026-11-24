@@ -88,7 +88,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-11-24T14:31:00.848Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/home-graph/LICENSE",
         "src/plugins/home-graph/README.md",
