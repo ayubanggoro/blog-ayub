@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eksegesa/matius-1/","title":"Eksegese Matius 1","tags":["gardenEntry"],"noteIcon":"","created":"2026-11-24T21:00:04.206+07:00","dg-note-properties":{"title":"Eksegese Matius 1"}}
+{"dg-publish":true,"permalink":"/eksegesa/matius-1/","title":"Matius 1 : 1-10","noteIcon":"","created":"2026-11-24T21:00:04.206+07:00","dg-note-properties":{"title":"Matius 1 : 1-10"}}
 ---
 
 ## LATAR BELAKANG
