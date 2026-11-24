@@ -141,7 +141,7 @@
       "repo": "koltensaccount/garden-plugin-reading-progress",
       "installedVersion": "1.0.1",
       "installedRef": "v1.0.1",
-      "installedAt": "2026-11-24T23:13:37.929Z",
+      "installedAt": "2026-11-24T23:49:56.516Z",
       "enabled": true,
       "files": [
         "src/plugins/reading-progress/LICENSE",
