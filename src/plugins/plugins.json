@@ -14,7 +14,7 @@
       ]
     },
     "dg-search": {
-      "enabled": false
+      "enabled": true
     },
     "chartjs": {
       "repo": "oleeskild/garden-plugin-chartjs",
