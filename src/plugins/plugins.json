@@ -40,7 +40,7 @@
       "repo": "oleeskild/garden-plugin-giscus-comments",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-11-24T14:26:11.429Z",
+      "installedAt": "2026-11-24T14:33:29.264Z",
       "enabled": true,
       "files": [
         "src/plugins/giscus-comments/README.md",
