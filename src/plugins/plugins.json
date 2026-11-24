@@ -46,7 +46,15 @@
         "src/plugins/giscus-comments/README.md",
         "src/plugins/giscus-comments/garden-plugin.json",
         "src/plugins/giscus-comments/templates/comments.njk"
-      ]
+      ],
+      "settings": {
+        "repo": "",
+        "repoId": "",
+        "category": "Announcements",
+        "categoryId": "",
+        "theme": "light",
+        "showByDefault": true
+      }
     },
     "garden-stats": {
       "repo": "oleeskild/garden-plugin-garden-stats",
