@@ -4,3 +4,7 @@
 
 ## LATAR BELAKANG
 Matius adalah satu dari empat Injil yang melihat Yesus sebaga Raja Penyelamat.
+
+
+![Pasted image 20261124225201.png](/img/user/Pasted%20image%2020261124225201.png)
+Penulis Injil Matius
