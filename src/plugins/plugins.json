@@ -249,22 +249,6 @@
         "src/plugins/light-dark-mode/tests/themeModes.test.cjs"
       ]
     },
-    "sidebar-controls": {
-      "repo": "oleeskild/garden-plugin-sidebar-controls",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-11-25T09:18:09.979Z",
-      "enabled": false,
-      "files": [
-        "src/plugins/sidebar-controls/README.md",
-        "src/plugins/sidebar-controls/garden-plugin.json",
-        "src/plugins/sidebar-controls/screenshot.png",
-        "src/plugins/sidebar-controls/styles/sidebar-controls.scss",
-        "src/plugins/sidebar-controls/templates/floating.njk",
-        "src/plugins/sidebar-controls/templates/footer.njk",
-        "src/plugins/sidebar-controls/templates/head.njk"
-      ]
-    },
     "banners": {
       "repo": "oleeskild/garden-plugin-banners",
       "installedVersion": "1.1.0",
