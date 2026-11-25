@@ -160,7 +160,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "note-age-banner": {
       "repo": "oleeskild/garden-plugin-note-age-banner",
