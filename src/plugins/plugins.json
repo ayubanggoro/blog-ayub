@@ -82,7 +82,7 @@
         "src/plugins/rounded-images/templates/style.njk"
       ],
       "settings": {
-        "radius": 8,
+        "radius": 12,
         "scope": "content"
       }
     },
