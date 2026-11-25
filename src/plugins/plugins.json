@@ -48,9 +48,9 @@
         "src/plugins/giscus-comments/templates/comments.njk"
       ],
       "settings": {
-        "repo": "",
+        "repo": "ayubanggoro/blog-ayub",
         "repoId": "",
-        "category": "Announcements",
+        "category": "General",
         "categoryId": "",
         "theme": "light",
         "showByDefault": true
