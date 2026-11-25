@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-8-19/","title":"Amsal 1 : 8-19","created":"2026-11-25T18:06:00.000+07:00","dg-note-properties":{"title":"Amsal 1 : 8-19"}}
+{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-8-19/","title":"Amsal 1 : 8-19","created":"2026-11-25T18:06:00.215+07:00","dg-note-properties":{"title":"Amsal 1 : 8-19"}}
 ---
 
 ## NATS:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-1-7/","title":"Amsal 1 : 1-7","created":"2026-11-25T17:30:40.000+07:00","dg-note-properties":{"title":"Amsal 1 : 1-7"}}
+{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-1-7/","title":"Amsal 1 : 1-7","created":"2026-11-25T17:30:40.528+07:00","dg-note-properties":{"title":"Amsal 1 : 1-7"}}
 ---
 
 ## Nats:
