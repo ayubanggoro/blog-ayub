@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-1-7/","title":"Amsal 1 : 1-7","created":"2026-11-25T17:30:40.528+07:00","dg-note-properties":{"title":"Amsal 1 : 1-7"}}
+{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-1-7/","title":"Amsal 1 : 1-7","created":"2026-11-25T17:30:40.000+07:00","dg-note-properties":{"title":"Amsal 1 : 1-7"}}
 ---
 
 “Amsal-amsal Salomo bin Daud, raja Israel, untuk mengetahui hikmat dan didikan, untuk mengerti kata-kata yang bermakna, untuk menerima didikan yang menjadikan pandai, serta kebenaran, keadilan dan kejujuran, untuk memberikan kecerdasan kepada orang yang tak berpengalaman, dan pengetahuan serta kebijaksanaan kepada orang muda – baiklah orang bijak mendengar dan menambah ilmu dan baiklah orang yang berpengertian memperoleh bahan pertimbangan – untuk mengerti amsal dan ibarat, perkataan dan teka-teki orang bijak. Takut akan Tuhan adalah permulaan pengetahuan, tetapi orang bodoh menghina hikmat dan didikan.”
