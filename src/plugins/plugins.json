@@ -285,7 +285,7 @@
       "repo": "oleeskild/garden-plugin-tag-placement",
       "installedVersion": "1.2.0",
       "installedRef": "v1.2.0",
-      "installedAt": "2026-11-25T09:19:00.616Z",
+      "installedAt": "2026-11-25T09:20:29.258Z",
       "enabled": true,
       "files": [
         "src/plugins/tag-placement/README.md",
