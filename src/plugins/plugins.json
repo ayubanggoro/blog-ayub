@@ -118,6 +118,20 @@
         "resumeReading": true,
         "wordsPerMinute": 220
       }
+    },
+    "garden-stats": {
+      "repo": "oleeskild/garden-plugin-garden-stats",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-11-25T09:11:47.017Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/garden-stats/README.md",
+        "src/plugins/garden-stats/garden-plugin.json",
+        "src/plugins/garden-stats/index.js",
+        "src/plugins/garden-stats/styles/stats.scss",
+        "src/plugins/garden-stats/templates/stats.njk"
+      ]
     }
   }
 }
