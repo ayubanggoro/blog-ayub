@@ -3,6 +3,7 @@
     "Index",
     "Eksegesis",
     "Renungan Singkat (Resing)",
+    "Pojok Teologi",
     "Contact"
   ],
   "/Eksegesis": [
@@ -22,6 +23,9 @@
     "Amsal 1 ayat 1-7",
     "Amsal 1 ayat 20-33",
     "Amsal 1 ayat 8-19"
+  ],
+  "/Pojok Teologi": [
+    "Teologi Kitab Titus"
   ],
   "/Contact": [
     "Profile Penulis"
