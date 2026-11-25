@@ -36,26 +36,6 @@
         "src/plugins/chartjs/test/convert.node-test.js"
       ]
     },
-    "giscus-comments": {
-      "repo": "oleeskild/garden-plugin-giscus-comments",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-11-24T14:33:29.264Z",
-      "enabled": true,
-      "files": [
-        "src/plugins/giscus-comments/README.md",
-        "src/plugins/giscus-comments/garden-plugin.json",
-        "src/plugins/giscus-comments/templates/comments.njk"
-      ],
-      "settings": {
-        "repo": "ayubanggoro/blog-ayub",
-        "repoId": "",
-        "category": "General",
-        "categoryId": "",
-        "theme": "light",
-        "showByDefault": true
-      }
-    },
     "garden-stats": {
       "repo": "oleeskild/garden-plugin-garden-stats",
       "installedVersion": "1.0.0",
