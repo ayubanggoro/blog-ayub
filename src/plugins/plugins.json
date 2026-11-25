@@ -254,7 +254,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-11-25T09:18:09.979Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/sidebar-controls/README.md",
         "src/plugins/sidebar-controls/garden-plugin.json",
