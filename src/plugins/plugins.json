@@ -50,25 +50,6 @@
         "src/plugins/garden-stats/templates/stats.njk"
       ]
     },
-    "home-graph": {
-      "repo": "oleeskild/garden-plugin-home-graph",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-11-24T14:31:00.848Z",
-      "enabled": false,
-      "files": [
-        "src/plugins/home-graph/LICENSE",
-        "src/plugins/home-graph/README.md",
-        "src/plugins/home-graph/assets/home-graph.js",
-        "src/plugins/home-graph/garden-plugin.json",
-        "src/plugins/home-graph/lib/graph-data.mjs",
-        "src/plugins/home-graph/screenshot.png",
-        "src/plugins/home-graph/styles/home-graph.scss",
-        "src/plugins/home-graph/templates/homeGraph.njk",
-        "src/plugins/home-graph/templates/homeGraphScript.njk",
-        "src/plugins/home-graph/test/graph-data.node-test.mjs"
-      ]
-    },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
       "installedVersion": "1.0.0",
