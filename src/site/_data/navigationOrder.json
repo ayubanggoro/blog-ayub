@@ -2,11 +2,26 @@
   "/": [
     "Index",
     "Eksegesis",
+    "Renungan Singkat (Resing)",
     "Contact"
   ],
   "/Eksegesis": [
+    "Injil Markus",
+    "Injil Matius"
+  ],
+  "/Eksegesis/Injil Markus": [
+    "Markus 1"
+  ],
+  "/Eksegesis/Injil Matius": [
     "Matius 1",
-    "Matius 2"
+    "Matius 2",
+    "Matius 3",
+    "Matius 4"
+  ],
+  "/Renungan Singkat (Resing)": [
+    "Amsal 1 ayat 1-7",
+    "Amsal 1 ayat 20-33",
+    "Amsal 1 ayat 8-19"
   ],
   "/Contact": [
     "Profile Penulis"
