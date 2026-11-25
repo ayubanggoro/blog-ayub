@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/index/","title":"Welcome to Blog-Ayub","tags":["gardenEntry"],"created":"2026-11-25T05:32:54.679+07:00","dg-note-properties":{"title":"Welcome to Blog-Ayub"}}
 ---
 
-# Welcome to blog-ayub
-
 ### Berbagi Pengalaman, Menjelajahi Pengetahuan, dan Bertumbuh dalam Iman
 
 Selamat datang di **blog-ayub**, sebuah ruang digital untuk berbagi pengalaman, gagasan, pengetahuan, dan refleksi tentang berbagai hal yang bermakna dalam kehidupan.
