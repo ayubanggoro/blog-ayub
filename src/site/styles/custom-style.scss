@@ -10,4 +10,11 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    /* Rata kanan-kiri untuk paragraf, daftar, dan kutipan */
+    .content p,
+    .content li,
+    .content blockquote {
+        text-align: justify;
+    }
 }
