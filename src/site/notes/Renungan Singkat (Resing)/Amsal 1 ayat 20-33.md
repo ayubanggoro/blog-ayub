@@ -12,30 +12,26 @@ https://bible.com/bible/306/pro.1.33.TB
 ___________________________
 
 - 3 golongan orang berdosa yg disebutkan di sini:
+	1. Orang yang tak berpengalaman (simple ones = ESV) yang masih cinta pada keadaan tanpa pengalaman (ay. 22)
+	2. Pencemooh (scoffers = ESV) yang gemar mencemooh (ay. 22)
+	3. Orang Bebal (fools = ESV) yang benci kepada pengetahuan (ay. 22)
 
-1. Orang yang tak berpengalaman (simple ones = ESV) yang masih cinta pada keadaan tanpa pengalaman (ay. 22)
-2. Pencemooh (scoffers = ESV) yang gemar mencemooh (ay. 22)
-3. Orang Bebal (fools = ESV) yang benci kepada pengetahuan (ay. 22)
-
-- Matthew Henry’s commentary 1. Simple ones. Sinners are fond of their simple notions of good and evil, their simple prejudices against the ways of God, and flatter themselves in their wickedness. 2. Scorners. Proud, jovial people, that make a jest of every thing. Scoffers at religion, that run down every thing sacred and serious. 3. Fools. Those are the worst of fools that hate to be taught, and have a rooted dislike to serious godliness.
+	- Matthew Henry’s commentary 1. Simple ones. Sinners are fond of their simple notions of good and evil, their simple prejudices against the ways of God, and flatter themselves in their wickedness. 2. Scorners. Proud, jovial people, that make a jest of every thing. Scoffers at religion, that run down every thing sacred and serious. 3. Fools. Those are the worst of fools that hate to be taught, and have a rooted dislike to serious godliness.
 
 - Seperti apa perbuatan mereka?
-
-- Mereka menolak, tidak menghiraukan, dan bahkan mengabaikan nasihat hikmat Tuhan walaupun hikmat berseru-seru kepada mereka untuk berpaling kepada tegurannya (ay. 23-25; 30). 
-- Mereka benci kepada pengetahuan dan tidak memilih takut akan Tuhan (ay. 29)
+	1. Mereka menolak, tidak menghiraukan, dan bahkan mengabaikan nasihat hikmat Tuhan walaupun hikmat berseru-seru kepada mereka untuk berpaling kepada tegurannya (ay. 23-25; 30).
+	2. Mereka benci kepada pengetahuan dan tidak memilih takut akan Tuhan (ay. 29)
 
 - Kemalangan apa yang menimpa mereka?
-
-- Hikmat tidak akan menolong mereka ketika ditimpa celaka, kedahsyatan, kesukaran, dan kecemasan (ay. 26-28)
-- Mereka akan binasa oleh rencana mereka sendiri (ay. 31)
-- Orang yg tak berpengalaman akan dibunuh oleh keengganannya (ay. 32)
-- Orang bebal akan dibinasakan oleh kelalaiannya (ay. 32)
+	1. Hikmat tidak akan menolong mereka ketika ditimpa celaka, kedahsyatan, kesukaran, dan kecemasan (ay. 26-28)
+	2. Mereka akan binasa oleh rencana mereka sendiri (ay. 31)
+	3. Orang yg tak berpengalaman akan dibunuh oleh keengganannya (ay. 32)
+	4. Orang bebal akan dibinasakan oleh kelalaiannya (ay. 32)
 
 - Apa nasihat hikmat kepada mereka?
-
-- Berpaling kepada teguran (ay. 23)
-- Mencintai pengatahuan dan takut akan Tuhan (ay. 29)
-- Menerima nasihat dan teguran (ay. 30; 33)
+	1. Berpaling kepada teguran (ay. 23)
+	2. Mencintai pengatahuan dan takut akan Tuhan (ay. 29)
+	3. Menerima nasihat dan teguran (ay. 30; 33)
 
   
 
