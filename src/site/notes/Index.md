@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Welcome to Blog-Ayub","tags":["gardenEntry"],"created":"2026-11-25T05:32:54.000+07:00","dg-note-properties":{"title":"Welcome to Blog-Ayub"}}
+{"dg-publish":true,"permalink":"/index/","title":"Welcome to Blog-Ayub","tags":["gardenEntry"],"created":"2026-11-25T05:32:54.679+07:00","dg-note-properties":{"title":"Welcome to Blog-Ayub"}}
 ---
 
 ### Berbagi Pengalaman, Menjelajahi Pengetahuan, dan Bertumbuh dalam Iman

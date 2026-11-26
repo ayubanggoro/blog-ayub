@@ -21,7 +21,7 @@ Salomo raja yang memiliki hikmat melebihi semua raja di bumi (1 Raja-raja 10: 23
 
 Dan semuanya itu dapat dan harus dimulai dengan TAKUT AKAN TUHAN*, karena tanpa takut akan Tuhan orang tidak dapat menghormati didikan-Nya.
 
-*TAKUT AKAN TUHAN (יהוֹה the fear of ˊי‍ = the law as revered). (Fools are persons who have no true wisdom, who follow their own devices, without regard to reason, or reverence for God. Therefore, with the instruction there is need of a law. Let Divine truths and commands be to us most honorable; let us value them, and then they shall be so to us — Matthew henry’s commentary).
+_TAKUT AKAN TUHAN (יהוֹה the fear of ˊי‍ = the law as revered). (Fools are persons who have no true wisdom, who follow their own devices, without regard to reason, or reverence for God. Therefore, with the instruction there is need of a law. Let Divine truths and commands be to us most honorable; let us value them, and then they shall be so to us — Matthew henry’s commentary).
 
 ---
 

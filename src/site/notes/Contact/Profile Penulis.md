@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contact/profile-penulis/","title":"# About the Author","created":"2026-11-24T23:02:27.000+07:00","dg-note-properties":{"title":"# About the Author"}}
+{"dg-publish":true,"permalink":"/contact/profile-penulis/","title":"# About the Author","created":"2026-11-24T23:02:27.400+07:00","dg-note-properties":{"title":"# About the Author"}}
 ---
 
 **Educator | Lifelong Learner | Research & Theology Enthusiast**
