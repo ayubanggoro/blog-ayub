@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-20-33/","title":"Amsal 1 : 20-33","created":"2026-11-25T18:10:28.699+07:00","dg-note-properties":{"title":"Amsal 1 : 20-33"}}
+{"dg-publish":true,"permalink":"/renungan-singkat-resing/amsal-1-ayat-20-33/","title":"Amsal 1 : 20-33","created":"2026-11-25T18:10:28.000+07:00","dg-note-properties":{"title":"Amsal 1 : 20-33"}}
 ---
 
 ## Nats:
